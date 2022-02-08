@@ -1,11 +1,7 @@
 import requests
 import bs4
 import string
-import pandas as pd
-from IPython.display import Image, HTML
 import shutil
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
 import os
 
 def main():
